@@ -1,0 +1,22 @@
+{
+  "name": "vue-resource",
+  "main": "dist/vue-resource.js",
+  "description": "A web request service for Vue.js",
+  "version": "0.6.1",
+  "homepage": "https://github.com/vuejs/vue-resource",
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "build",
+    "package.json"
+  ],
+  "_release": "0.6.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.6.1",
+    "commit": "076abf6577f1039cd084d52c4838510e0cba0bf6"
+  },
+  "_source": "git://github.com/vuejs/vue-resource.git",
+  "_target": "~0.6.0",
+  "_originalSource": "vue-resource"
+}

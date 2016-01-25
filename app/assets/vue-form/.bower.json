@@ -1,0 +1,22 @@
+{
+  "name": "vue-form",
+  "main": "dist/vue-form.js",
+  "description": "A form generator for Vue.js",
+  "homepage": "https://github.com/pagekit/vue-form",
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "build",
+    "*.json",
+    "*.md"
+  ],
+  "_release": "3245c04e98",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3245c04e98f8a947a1daa4c0f527225d2d7767de"
+  },
+  "_source": "git://github.com/pagekit/vue-form.git",
+  "_target": "master",
+  "_originalSource": "pagekit/vue-form"
+}
