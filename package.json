@@ -13,7 +13,7 @@
     "cldr-localenames-modern": "28.0.0",
     "css-loader": "*",
     "glob": "^5.0.5",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-eslint": "^0.7.0",
     "gulp-header": "^1.2.2",
     "gulp-less": "^3.0.0",
