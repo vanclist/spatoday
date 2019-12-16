@@ -17,7 +17,7 @@
     "gulp-eslint": "^0.7.0",
     "gulp-header": "^1.2.2",
     "gulp-less": "^3.0.0",
-    "gulp-rename": "^1.2.0",
+    "gulp-rename": "^2.0.0",
     "gulp-util": "^3.0.4",
     "json-loader": "^0.5.2",
     "less": "^2.5.1",
